@@ -6,7 +6,6 @@ if (!isset($_SESSION["idpersonal"]))
 {
   header("Location: login.html");
 }
-/*productos*/
 else
 {
 require 'modulos/header.php';
