@@ -1,4 +1,5 @@
 <?php
+//productos
 ob_start();
 session_start();
 //si la ariable de sesion no existe
